@@ -31,4 +31,4 @@ eventually causes **HTTP 429 Too Many Requests** response. To avoid that respons
 **bina_yasi** : *age of building*\
 **ilce / mahalle** : *location of house*\
 **fiyat** : *renting price of house*\
-**url** : *announcment url*\
+**url** : *announcment url*
